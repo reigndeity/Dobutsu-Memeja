@@ -15,7 +15,7 @@ Dōbutsu Memeja is card game that allows players to take form in the role of a n
 <img align = "center"> <img src = "https://github.com/reigndeity/ImageDump/blob/main/DobutsuMemeja/in%20game%20ui.png?raw=true">
 
 # Download Link
-<br>Windows: [**Windows - Dobutsu Memeja**](https://drive.google.com/file/d/18aXL1cFvx1mU46ZjurF8tgxmoeGCjJgr/view?usp=sharing)
+<br>Windows: [**Windows - Dobutsu Memeja**](https://drive.google.com/file/d/1TY_GN0JgQI3ydLFrDn8f64bpuOk68Jp-/view?usp=sharing)
 
 
 # Software Used
