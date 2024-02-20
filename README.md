@@ -7,7 +7,8 @@
 # Game Overview
 Dōbutsu Memeja is card game that allows players to take form in the role of a ninja, male or female, on a quest to attain a legendary status. In this epic battle of wit and strategy, players will challenge other cunning ninjas in a battle to become the ultimate Dōbutsu Memeja' – a fusion of animals and the art of memes. sharpen your skills, master your deck, rise above the competition, and most of all - good luck. Become the strongest ninja in this world of strong animal fighters and internet culture.
 
-![image](https://github.com/reigndeity/Dobutsu-Memeja/assets/158044567/e05c56aa-d984-4d9a-bd8c-1f3dd344f873)
+![image](https://github.com/reigndeity/Dobutsu-Memeja/assets/158044567/b5bb9574-30b5-46dc-bc3e-863e26be80bc)
+
 
 
 # Game Screenshots
@@ -25,7 +26,7 @@ Dōbutsu Memeja is card game that allows players to take form in the role of a n
 - Unity
 - Medibang
 - Krita
-- Adobe Animate
+- Piskel
 
 # Project Members
 - Cedeño, Aaron Jason 
@@ -35,7 +36,8 @@ Dōbutsu Memeja is card game that allows players to take form in the role of a n
 
 # Project Role
 - Programmer
+- Tile and UI Artist
 - Game Producer
 - Game Design
 
-In this project, I did most of the coding and half of the game design document.
+In this project, I did most of the coding and half of the game design document. I don't usually draw but I think I did a nice job with the UI and Tiles.
