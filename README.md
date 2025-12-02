@@ -1,5 +1,5 @@
 # Dobutsu Memeja
-<p>Year Level: 2nd Year
+<p>Year Level: 2
 <br>Semester: 1st Semester
 <br>Project Type: Finals
 </p>
